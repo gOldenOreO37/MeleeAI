@@ -1,0 +1,2273 @@
+﻿Log file open, 12/06/18 06:56:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 11.806938
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.250s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.199s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.06-12.56.10:512][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.06-12.56.10:513][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.06-12.56.10:694][  0]LogHAL: Display: Platform has ~ 8 GB [8476856320 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.06-12.56.10:733][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.06-12.56.10:733][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.06-12.56.10:970][  0]LogInit: Computer: LAPTOP-UQNPD2UU
+[2018.12.06-12.56.10:970][  0]LogInit: User: mlgmi
+[2018.12.06-12.56.10:970][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.06-12.56.10:970][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2018.12.06-12.56.10:971][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.12.06-12.56.10:994][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.06-12.56.10:994][  0]LogMemory: Process Physical Memory: 102.16 MB used, 102.16 MB peak
+[2018.12.06-12.56.10:994][  0]LogMemory: Process Virtual Memory: 89.30 MB used, 89.30 MB peak
+[2018.12.06-12.56.10:994][  0]LogMemory: Physical Memory: 6251.97 MB used,  1832.19 MB free, 8084.16 MB total
+[2018.12.06-12.56.10:994][  0]LogMemory: Virtual Memory: 4644.22 MB used,  1832.19 MB free, 134217728.00 MB total
+[2018.12.06-12.56.13:099][  0]LogInit: Using OS detected language (en-US).
+[2018.12.06-12.56.13:099][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.06-12.56.13:290][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.06-12.56.15:055][  0]LogStreaming: Display: Took  1.945s to InitEngineTextLocalization.
+[2018.12.06-12.56.15:076][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.06-12.56.16:041][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.06-12.56.16:041][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.06-12.56.28:144][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.06-12.56.28:144][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.06-12.56.28:266][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.12.06-12.56.28:266][  0]LogD3D11RHI:       4021/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.06-12.56.28:280][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.12.06-12.56.28:280][  0]LogD3D11RHI:       128/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.06-12.56.28:283][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.06-12.56.28:283][  0]LogD3D11RHI:       0/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.06-12.56.28:283][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.06-12.56.28:367][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.06-12.56.28:367][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2018.12.06-12.56.28:376][  0]LogWindows: EnumDisplayDevices:
+[2018.12.06-12.56.28:376][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.12.06-12.56.28:377][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.06-12.56.28:378][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.06-12.56.28:378][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.06-12.56.28:378][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.12.06-12.56.28:378][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.06-12.56.28:378][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.06-12.56.28:378][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.12.06-12.56.28:435][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.06-12.56.28:824][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.06-12.56.28:853][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/mlgmi/Documents/Unreal Projects/MyProject/Intermediate/Shaders/WorkingDirectory/17464/).
+[2018.12.06-12.56.28:853][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mlgmi/AppData/Local/Temp/UnrealShaderWorkingDir/8B569F62401B8102E73FA3BE373762DA/'.
+[2018.12.06-12.56.30:979][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.06-12.56.31:059][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.06-12.56.31:157][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.06-12.56.31:198][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.06-12.56.31:306][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.06-12.56.31:376][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.06-12.56.31:436][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.06-12.56.31:485][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.06-12.56.31:510][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.06-12.56.31:727][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:727][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:727][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:728][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:728][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:728][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:728][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:728][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:728][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:728][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:728][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:728][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:728][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:728][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:728][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:728][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:728][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:728][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.06-12.56.31:763][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.06-12.56.31:922][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.06-12.56.31:922][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.06-12.56.31:964][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.06-12.56.31:964][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.06-12.56.32:015][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.06-12.56.32:086][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.06-12.56.32:141][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.06-12.56.32:259][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.06-12.56.32:320][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.06-12.56.32:320][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.06-12.56.33:686][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.06-12.56.33:686][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.06-12.56.33:686][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.06-12.56.45:288][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.06-12.56.53:837][  0]LogDerivedDataCache: Loaded boot cache 8.53s 79MB C:/Users/mlgmi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.06-12.56.53:837][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mlgmi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.06-12.56.53:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mlgmi/Documents/Unreal Projects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.06-12.56.53:837][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.06-12.56.53:838][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mlgmi/Documents/Unreal Projects/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.06-12.56.53:838][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.06-12.56.54:072][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.06-12.56.54:085][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mlgmi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.06-12.56.54:085][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.06-12.56.54:085][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.06-12.56.54:344][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.06-12.56.54:420][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.06-12.56.54:609][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.06-12.56.57:683][  0]LogAssetRegistry: FAssetRegistry took 0.0422 seconds to start up
+[2018.12.06-12.57.02:613][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.06-12.57.08:054][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.06-12.57.08:491][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.06-12.57.08:492][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.06-12.57.08:492][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.06-12.57.08:492][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.06-12.57.09:922][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1110078900)
+[2018.12.06-12.57.29:707][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.815233 seconds
+[2018.12.06-12.57.29:736][  0]LogUObjectArray: 38438 objects as part of root set at end of initial load.
+[2018.12.06-12.57.29:736][  0]LogUObjectAllocator: 6693864 out of 0 bytes used by permanent object pool.
+[2018.12.06-12.57.29:736][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.06-12.58.29:934][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.06-12.58.29:979][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.06-12.58.36:095][  0]SourceControl: Source control is disabled
+[2018.12.06-12.58.36:150][  0]SourceControl: Source control is disabled
+[2018.12.06-12.58.36:560][  0]SourceControl: Source control is disabled
+[2018.12.06-12.58.36:652][  0]SourceControl: Source control is disabled
+[2018.12.06-12.58.44:157][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.06-12.58.46:018][  0]LogOcInput: OculusInput pre-init called
+[2018.12.06-12.58.48:097][  0]LogEngine: Initializing Engine...
+[2018.12.06-12.58.48:208][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.06-12.58.48:284][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.008 s
+[2018.12.06-12.58.48:284][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.06-12.58.48:295][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.011 s
+[2018.12.06-12.58.48:295][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2018.12.06-12.58.52:014][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.06-12.58.56:245][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.06-12.58.57:752][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-12.58.58:246][  0]LogInit: FAudioDevice initialized.
+[2018.12.06-12.58.58:281][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.06-12.59.00:874][  0]LogDerivedDataCache: Saved boot cache 2.59s 72MB C:/Users/mlgmi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.06-12.59.01:132][  0]LogInit: Texture streaming: Enabled
+[2018.12.06-12.59.02:662][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.06-12.59.03:327][  0]LogInit: Transaction tracking system initialized
+[2018.12.06-12.59.06:168][  0]BlueprintLog: New page: Editor Load
+[2018.12.06-12.59.12:521][  0]LocalizationService: Localization service is disabled
+[2018.12.06-12.59.13:708][  0]LogLinker: Warning: Can't find file '/Game/CloseCombat/CloseCombat_Greeting_Tutorial'
+[2018.12.06-12.59.13:710][  0]LogLinker: Warning: Can't find file '/Game/CloseCombat/CloseCombat_Greeting_Tutorial'
+[2018.12.06-12.59.13:710][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CloseCombat/CloseCombat_Greeting_Tutorial.CloseCombat_Greeting_Tutorial_C'
+[2018.12.06-12.59.13:710][  0]LogLinker: Warning: Can't find file '/Game/CircleDamageIndicator/Tutortial/Tutorial_DamageIndicator'
+[2018.12.06-12.59.13:711][  0]LogLinker: Warning: Can't find file '/Game/CircleDamageIndicator/Tutortial/Tutorial_DamageIndicator'
+[2018.12.06-12.59.13:711][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/CircleDamageIndicator/Tutortial/Tutorial_DamageIndicator.Tutorial_DamageIndicator_C'
+[2018.12.06-12.59.20:055][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.06-12.59.20:057][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.06-12.59.20:072][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.06-12.59.20:072][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.06-12.59.20:072][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.06-12.59.20:072][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.06-12.59.20:073][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.06-12.59.20:364][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mlgmi/Documents/Unreal Projects/MyProject/Content/' took 0.22s
+[2018.12.06-12.59.26:875][  0]SourceControl: Source control is disabled
+[2018.12.06-12.59.26:954][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mlgmi/Documents/Unreal Projects/MyProject/Content/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.06-12.59.27:010][  0]LightingResults: New page: Lighting Build
+[2018.12.06-12.59.27:879][  0]MapCheck: New page: Map Check
+[2018.12.06-12.59.27:879][  0]LightingResults: New page: Lighting Build
+[2018.12.06-13.00.24:109][  0]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 22 != 23
+[2018.12.06-13.00.24:109][  0]LogNiagara: AreScriptAndSourceSynchronized num dependencies don't match. 22 != 23
+[2018.12.06-13.00.24:198][  0]LogNiagara: Emitter /Game/Programming/CloseCombat/Blueprints/Weapon/Materials/S_Teleportation.S_Teleportation:E_Teleportation_13-E_Teleportation is merging changes from source (null) because its Change ID was updated.
+[2018.12.06-13.00.24:204][  0]LogNiagara: Warning: Failed to merge changes for base emitter.  System: /Game/Programming/CloseCombat/Blueprints/Weapon/Materials/S_Teleportation.S_Teleportation  Emitter: E_Teleportation  Error Message: This emitter has no 'Source' so changes can't be merged in.
+[2018.12.06-13.00.29:148][  0]LogAIModule: Creating AISystem for world Map
+[2018.12.06-13.00.32:594][  0]LogEditorServer: Finished looking for orphan Actors (0.013 secs)
+[2018.12.06-13.00.33:613][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.06-13.00.35:257][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,644.13ms to complete.
+[2018.12.06-13.00.35:286][  0]LogFileHelpers: Loading map 'Map' took 68.398
+[2018.12.06-13.00.37:964][  0]LogCollectionManager: Loaded 0 collections in 0.023527 seconds
+[2018.12.06-13.00.38:177][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mlgmi/Documents/Unreal Projects/MyProject/Saved/Collections/' took 0.01s
+[2018.12.06-13.00.38:177][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mlgmi/Documents/Unreal Projects/MyProject/Content/Developers/mlgmi/Collections/' took 0.01s
+[2018.12.06-13.00.38:177][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mlgmi/Documents/Unreal Projects/MyProject/Content/Collections/' took 0.01s
+[2018.12.06-13.00.38:177][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000005 seconds
+[2018.12.06-13.00.38:206][  0]LogContentBrowser: Native class hierarchy populated in 0.0244 seconds. Added 2686 classes and 619 folders.
+[2018.12.06-13.00.38:470][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.12.06-13.00.41:354][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.06-13.00.42:096][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.00.42:133][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.00.42:161][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.00.42:178][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.00.42:731][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.12.06-13.00.43:091][  0]LogSlate: Took 0.041619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.06-13.00.43:154][  0]LogSlate: Took 0.049041 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.06-13.00.43:212][  0]LogSlate: Took 0.047165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.06-13.00.43:679][  0]LogSlate: Took 0.052608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.06-13.00.44:532][  0]LogRenderer: Reallocating scene render targets to support 768x712 Format 9 NumSamples 1 (Frame:1).
+[2018.12.06-13.00.46:232][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2018.12.06-13.00.46:233][  0]LogLoad: (Engine Initialization) Total time: 343.47 seconds
+[2018.12.06-13.00.46:233][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.06-13.00.47:506][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.12.06-13.00.48:874][  5]LogAssetRegistry: Asset discovery search completed in 231.2164 seconds
+[2018.12.06-13.00.48:902][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.06-13.00.48:902][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.014562 seconds (updated 0 objects)
+[2018.12.06-13.01.06:740][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.06-13.01.07:780][152]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.06-13.01.08:096][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.06-13.01.08:612][152]PIE: New page: PIE session: Map (Dec 6, 2018, 1:01:08 AM)
+[2018.12.06-13.01.08:612][152]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.12.06-13.01.08:980][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.366939s)
+[2018.12.06-13.01.08:982][152]LogAIModule: Creating AISystem for world Map
+[2018.12.06-13.01.09:027][152]LogPlayLevel: PIE: World Init took: (0.047258s)
+[2018.12.06-13.01.09:043][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.430584s)
+[2018.12.06-13.01.09:225][152]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-13.01.09:261][152]LogInit: FAudioDevice initialized.
+[2018.12.06-13.01.09:386][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.01.09:839][152]LogLoad: Game class is 'GameModeBase'
+[2018.12.06-13.01.10:392][152]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.06-07.01.10
+[2018.12.06-13.01.10:900][152]LogWorld: Bringing up level for play took: 0.592522
+[2018.12.06-13.01.11:091][152]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.12.06-13.01.11:962][152]PIE: Play in editor start time for /Game/UEDPIE_0_Map 3.305
+[2018.12.06-13.01.13:018][152]LogRenderer: Reallocating scene render targets to support 1344x768 Format 9 NumSamples 1 (Frame:1).
+[2018.12.06-13.01.25:382][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.01.25:499][787]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.06-13.01.25:908][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-13.01.26:198][788]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.12.06-13.01.27:115][843]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.06-13.01.27:139][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.06-13.01.27:139][843]PIE: New page: PIE session: Map (Dec 6, 2018, 1:01:27 AM)
+[2018.12.06-13.01.27:139][843]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.12.06-13.01.27:142][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003043s)
+[2018.12.06-13.01.27:142][843]LogAIModule: Creating AISystem for world Map
+[2018.12.06-13.01.27:142][843]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2018.12.06-13.01.27:142][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003908s)
+[2018.12.06-13.01.27:166][843]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-13.01.27:180][843]LogInit: FAudioDevice initialized.
+[2018.12.06-13.01.27:188][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.01.27:283][843]LogLoad: Game class is 'GameModeBase'
+[2018.12.06-13.01.27:285][843]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.06-07.01.27
+[2018.12.06-13.01.27:286][843]LogWorld: Bringing up level for play took: 0.002300
+[2018.12.06-13.01.27:312][843]PIE: Play in editor start time for /Game/UEDPIE_0_Map 0.656
+[2018.12.06-13.01.53:853][159]LogScript: Warning: Script Msg: Divide by zero detected: 13.698279 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.53:853][159]LogScript: Warning: Script Msg: Divide by zero detected: 13.698279 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.53:876][160]LogScript: Warning: Script Msg: Divide by zero detected: 7.218097 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.53:876][160]LogScript: Warning: Script Msg: Divide by zero detected: 7.218097 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.53:896][161]LogScript: Warning: Script Msg: Divide by zero detected: 6.499218 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.53:896][161]LogScript: Warning: Script Msg: Divide by zero detected: 6.499218 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.53:928][162]LogScript: Warning: Script Msg: Divide by zero detected: 9.590579 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.53:928][162]LogScript: Warning: Script Msg: Divide by zero detected: 9.590579 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.53:945][163]LogScript: Warning: Script Msg: Divide by zero detected: 5.220534 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.53:946][163]LogScript: Warning: Script Msg: Divide by zero detected: 5.220534 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.53:975][164]LogScript: Warning: Script Msg: Divide by zero detected: 8.394382 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.53:976][164]LogScript: Warning: Script Msg: Divide by zero detected: 8.394382 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.53:997][165]LogScript: Warning: Script Msg: Divide by zero detected: 6.991854 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.53:997][165]LogScript: Warning: Script Msg: Divide by zero detected: 6.991854 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:028][166]LogScript: Warning: Script Msg: Divide by zero detected: 9.278785 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:028][166]LogScript: Warning: Script Msg: Divide by zero detected: 9.278785 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:045][167]LogScript: Warning: Script Msg: Divide by zero detected: 5.646544 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:045][167]LogScript: Warning: Script Msg: Divide by zero detected: 5.646544 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:077][168]LogScript: Warning: Script Msg: Divide by zero detected: 9.412473 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:077][168]LogScript: Warning: Script Msg: Divide by zero detected: 9.412473 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:097][169]LogScript: Warning: Script Msg: Divide by zero detected: 5.946851 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:097][169]LogScript: Warning: Script Msg: Divide by zero detected: 5.946851 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:126][170]LogScript: Warning: Script Msg: Divide by zero detected: 8.871701 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:126][170]LogScript: Warning: Script Msg: Divide by zero detected: 8.871701 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:146][171]LogScript: Warning: Script Msg: Divide by zero detected: 5.850577 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:146][171]LogScript: Warning: Script Msg: Divide by zero detected: 5.850577 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:178][172]LogScript: Warning: Script Msg: Divide by zero detected: 9.672412 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:179][172]LogScript: Warning: Script Msg: Divide by zero detected: 9.672412 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:205][173]LogScript: Warning: Script Msg: Divide by zero detected: 6.371219 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:205][173]LogScript: Warning: Script Msg: Divide by zero detected: 6.371219 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:226][174]LogScript: Warning: Script Msg: Divide by zero detected: 7.966951 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:226][174]LogScript: Warning: Script Msg: Divide by zero detected: 7.966951 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:261][175]LogScript: Warning: Script Msg: Divide by zero detected: 10.010462 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:261][175]LogScript: Warning: Script Msg: Divide by zero detected: 10.010462 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:291][176]LogScript: Warning: Script Msg: Divide by zero detected: 7.721891 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:292][176]LogScript: Warning: Script Msg: Divide by zero detected: 7.721891 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:310][177]LogScript: Warning: Script Msg: Divide by zero detected: 7.171710 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:310][177]LogScript: Warning: Script Msg: Divide by zero detected: 7.171710 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:331][178]LogScript: Warning: Script Msg: Divide by zero detected: 6.216307 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:331][178]LogScript: Warning: Script Msg: Divide by zero detected: 6.216307 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:361][179]LogScript: Warning: Script Msg: Divide by zero detected: 9.156474 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:361][179]LogScript: Warning: Script Msg: Divide by zero detected: 9.156474 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:378][180]LogScript: Warning: Script Msg: Divide by zero detected: 5.000199 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:378][180]LogScript: Warning: Script Msg: Divide by zero detected: 5.000199 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:408][181]LogScript: Warning: Script Msg: Divide by zero detected: 7.699901 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:408][181]LogScript: Warning: Script Msg: Divide by zero detected: 7.699901 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:432][182]LogScript: Warning: Script Msg: Divide by zero detected: 8.333009 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:432][182]LogScript: Warning: Script Msg: Divide by zero detected: 8.333009 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:461][183]LogScript: Warning: Script Msg: Divide by zero detected: 8.824877 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:461][183]LogScript: Warning: Script Msg: Divide by zero detected: 8.824877 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:482][184]LogScript: Warning: Script Msg: Divide by zero detected: 6.339602 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:482][184]LogScript: Warning: Script Msg: Divide by zero detected: 6.339602 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:514][185]LogScript: Warning: Script Msg: Divide by zero detected: 9.848330 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.54:514][185]LogScript: Warning: Script Msg: Divide by zero detected: 9.848330 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:295][215]LogScript: Warning: Script Msg: Divide by zero detected: 8.271415 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:295][215]LogScript: Warning: Script Msg: Divide by zero detected: 8.271415 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:326][216]LogScript: Warning: Script Msg: Divide by zero detected: 9.381950 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:326][216]LogScript: Warning: Script Msg: Divide by zero detected: 9.381950 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:344][217]LogScript: Warning: Script Msg: Divide by zero detected: 5.497648 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:344][217]LogScript: Warning: Script Msg: Divide by zero detected: 5.497648 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:377][218]LogScript: Warning: Script Msg: Divide by zero detected: 9.581280 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:377][218]LogScript: Warning: Script Msg: Divide by zero detected: 9.581280 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:397][219]LogScript: Warning: Script Msg: Divide by zero detected: 6.271554 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:397][219]LogScript: Warning: Script Msg: Divide by zero detected: 6.271554 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:437][220]LogScript: Warning: Script Msg: Divide by zero detected: 11.663520 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:437][220]LogScript: Warning: Script Msg: Divide by zero detected: 11.663520 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:455][221]LogScript: Warning: Script Msg: Divide by zero detected: 5.000200 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:455][221]LogScript: Warning: Script Msg: Divide by zero detected: 5.000200 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:478][222]LogScript: Warning: Script Msg: Divide by zero detected: 7.734910 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:478][222]LogScript: Warning: Script Msg: Divide by zero detected: 7.734910 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:507][223]LogScript: Warning: Script Msg: Divide by zero detected: 8.831551 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:507][223]LogScript: Warning: Script Msg: Divide by zero detected: 8.831551 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:532][224]LogScript: Warning: Script Msg: Divide by zero detected: 5.000199 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:532][224]LogScript: Warning: Script Msg: Divide by zero detected: 5.000199 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:566][225]LogScript: Warning: Script Msg: Divide by zero detected: 12.077167 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:567][225]LogScript: Warning: Script Msg: Divide by zero detected: 12.077167 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:588][226]LogScript: Warning: Script Msg: Divide by zero detected: 6.057566 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:588][226]LogScript: Warning: Script Msg: Divide by zero detected: 6.057566 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:607][227]LogScript: Warning: Script Msg: Divide by zero detected: 6.859259 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:608][227]LogScript: Warning: Script Msg: Divide by zero detected: 6.859259 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:627][228]LogScript: Warning: Script Msg: Divide by zero detected: 5.053697 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:628][228]LogScript: Warning: Script Msg: Divide by zero detected: 5.053697 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:661][229]LogScript: Warning: Script Msg: Divide by zero detected: 10.866749 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:661][229]LogScript: Warning: Script Msg: Divide by zero detected: 10.866749 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:691][230]LogScript: Warning: Script Msg: Divide by zero detected: 8.943031 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:691][230]LogScript: Warning: Script Msg: Divide by zero detected: 8.943031 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:709][231]LogScript: Warning: Script Msg: Divide by zero detected: 5.000527 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:709][231]LogScript: Warning: Script Msg: Divide by zero detected: 5.000527 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:738][232]LogScript: Warning: Script Msg: Divide by zero detected: 8.408824 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.01.55:739][232]LogScript: Warning: Script Msg: Divide by zero detected: 8.408824 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.00:613][399]LogNiagara: FNiagaraGlobalReadBuffer::InitRHI
+[2018.12.06-13.02.02:108][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.02.02:144][456]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.06-13.02.02:185][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-13.02.02:242][457]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.12.06-13.02.04:725][605]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.06-13.02.04:753][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.06-13.02.04:753][605]PIE: New page: PIE session: Map (Dec 6, 2018, 1:02:04 AM)
+[2018.12.06-13.02.04:753][605]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.12.06-13.02.04:757][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003540s)
+[2018.12.06-13.02.04:758][605]LogAIModule: Creating AISystem for world Map
+[2018.12.06-13.02.04:758][605]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2018.12.06-13.02.04:758][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.004632s)
+[2018.12.06-13.02.04:785][605]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-13.02.04:799][605]LogInit: FAudioDevice initialized.
+[2018.12.06-13.02.04:809][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.02.04:920][605]LogLoad: Game class is 'GameModeBase'
+[2018.12.06-13.02.04:923][605]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.06-07.02.04
+[2018.12.06-13.02.04:924][605]LogWorld: Bringing up level for play took: 0.002879
+[2018.12.06-13.02.04:952][605]PIE: Play in editor start time for /Game/UEDPIE_0_Map 0.295
+[2018.12.06-13.02.20:517][385]LogScript: Warning: Script Msg: Divide by zero detected: 8.602757 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:517][385]LogScript: Warning: Script Msg: Divide by zero detected: 8.602757 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:537][386]LogScript: Warning: Script Msg: Divide by zero detected: 8.003381 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:537][386]LogScript: Warning: Script Msg: Divide by zero detected: 8.003381 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:566][387]LogScript: Warning: Script Msg: Divide by zero detected: 11.529904 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:566][387]LogScript: Warning: Script Msg: Divide by zero detected: 11.529904 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:592][388]LogScript: Warning: Script Msg: Divide by zero detected: 9.661618 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:593][388]LogScript: Warning: Script Msg: Divide by zero detected: 9.661618 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:618][389]LogScript: Warning: Script Msg: Divide by zero detected: 11.148603 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:618][389]LogScript: Warning: Script Msg: Divide by zero detected: 11.148603 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:648][390]LogScript: Warning: Script Msg: Divide by zero detected: 11.644119 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:649][390]LogScript: Warning: Script Msg: Divide by zero detected: 11.644119 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:669][391]LogScript: Warning: Script Msg: Divide by zero detected: 8.436903 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:669][391]LogScript: Warning: Script Msg: Divide by zero detected: 8.436903 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:702][392]LogScript: Warning: Script Msg: Divide by zero detected: 12.921347 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:702][392]LogScript: Warning: Script Msg: Divide by zero detected: 12.921347 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:722][393]LogScript: Warning: Script Msg: Divide by zero detected: 8.411084 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:722][393]LogScript: Warning: Script Msg: Divide by zero detected: 8.411084 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:754][394]LogScript: Warning: Script Msg: Divide by zero detected: 13.110683 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:754][394]LogScript: Warning: Script Msg: Divide by zero detected: 13.110683 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:782][395]LogScript: Warning: Script Msg: Divide by zero detected: 11.158377 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:783][395]LogScript: Warning: Script Msg: Divide by zero detected: 11.158377 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:803][396]LogScript: Warning: Script Msg: Divide by zero detected: 8.054143 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:803][396]LogScript: Warning: Script Msg: Divide by zero detected: 8.054143 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:832][397]LogScript: Warning: Script Msg: Divide by zero detected: 11.447197 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:832][397]LogScript: Warning: Script Msg: Divide by zero detected: 11.447197 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:852][398]LogScript: Warning: Script Msg: Divide by zero detected: 6.666932 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:852][398]LogScript: Warning: Script Msg: Divide by zero detected: 6.666932 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:877][399]LogScript: Warning: Script Msg: Divide by zero detected: 10.249031 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:878][399]LogScript: Warning: Script Msg: Divide by zero detected: 10.249031 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:903][400]LogScript: Warning: Script Msg: Divide by zero detected: 11.561704 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:903][400]LogScript: Warning: Script Msg: Divide by zero detected: 11.561704 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:935][401]LogScript: Warning: Script Msg: Divide by zero detected: 13.211772 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:935][401]LogScript: Warning: Script Msg: Divide by zero detected: 13.211772 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:960][402]LogScript: Warning: Script Msg: Divide by zero detected: 8.631054 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:961][402]LogScript: Warning: Script Msg: Divide by zero detected: 8.631054 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:985][403]LogScript: Warning: Script Msg: Divide by zero detected: 11.144521 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.20:985][403]LogScript: Warning: Script Msg: Divide by zero detected: 11.144521 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.21:017][404]LogScript: Warning: Script Msg: Divide by zero detected: 12.803485 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.21:017][404]LogScript: Warning: Script Msg: Divide by zero detected: 12.803485 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.21:037][405]LogScript: Warning: Script Msg: Divide by zero detected: 8.157418 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.21:037][405]LogScript: Warning: Script Msg: Divide by zero detected: 8.157418 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.21:068][406]LogScript: Warning: Script Msg: Divide by zero detected: 12.135842 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.21:068][406]LogScript: Warning: Script Msg: Divide by zero detected: 12.135842 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.21:094][407]LogScript: Warning: Script Msg: Divide by zero detected: 9.032777 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.21:095][407]LogScript: Warning: Script Msg: Divide by zero detected: 9.032777 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.21:116][408]LogScript: Warning: Script Msg: Divide by zero detected: 10.171575 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.21:116][408]LogScript: Warning: Script Msg: Divide by zero detected: 10.171575 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.21:138][409]LogScript: Warning: Script Msg: Divide by zero detected: 8.807556 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.21:138][409]LogScript: Warning: Script Msg: Divide by zero detected: 8.807556 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.21:173][410]LogScript: Warning: Script Msg: Divide by zero detected: 13.977291 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.21:173][410]LogScript: Warning: Script Msg: Divide by zero detected: 13.977291 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.21:203][411]LogScript: Warning: Script Msg: Divide by zero detected: 11.858693 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.21:203][411]LogScript: Warning: Script Msg: Divide by zero detected: 11.858693 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.32:031][830]LogScript: Warning: Script Msg: Divide by zero detected: 11.979473 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.32:031][830]LogScript: Warning: Script Msg: Divide by zero detected: 11.979473 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.32:051][831]LogScript: Warning: Script Msg: Divide by zero detected: 7.571901 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.32:051][831]LogScript: Warning: Script Msg: Divide by zero detected: 7.571901 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.32:131][834]LogScript: Warning: Script Msg: Divide by zero detected: 11.437424 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.32:131][834]LogScript: Warning: Script Msg: Divide by zero detected: 11.437424 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.32:149][835]LogScript: Warning: Script Msg: Divide by zero detected: 6.666932 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.32:149][835]LogScript: Warning: Script Msg: Divide by zero detected: 6.666932 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.32:180][836]LogScript: Warning: Script Msg: Divide by zero detected: 11.966199 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.32:180][836]LogScript: Warning: Script Msg: Divide by zero detected: 11.966199 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.02.37:211][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.02.37:247][ 32]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.06-13.02.37:290][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-13.02.37:433][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.12.06-13.02.47:503][552]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.06-13.02.47:557][552]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Programming/CloseCombat/Blueprints/Character/Enemy_CloseCombat.Enemy_CloseCombat
+[2018.12.06-13.02.49:393][552]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.12.06-13.02.52:141][552]LogSlate: Took 0.018276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.06-13.02.53:243][553]LogSlate: Took 0.026145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.06-13.02.59:962][902]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat
+[2018.12.06-13.03.04:384][109]LogClass: Warning: In asset 'None', there is an enum property of type 'MeleeWeapons' with an invalid value of ''
+[2018.12.06-13.03.04:384][109]LogClass: Warning: In asset 'None', there is an enum property of type 'MeleeWeapons' with an invalid value of ''
+[2018.12.06-13.03.04:385][109]LogClass: Warning: In asset 'None', there is an enum property of type 'MeleeWeapons' with an invalid value of ''
+[2018.12.06-13.03.08:353][336]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.06-13.03.08:434][336]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.06-13.03.08:849][336]LogPlayLevel: [PlayLevel] Compiling Pawn_CloseCombat before play...
+[2018.12.06-13.03.10:163][336]LogPlayLevel: PlayLevel: Blueprint regeneration took 1727 ms (1 blueprints)
+[2018.12.06-13.03.10:163][336]PIE: New page: PIE session: Map (Dec 6, 2018, 1:03:10 AM)
+[2018.12.06-13.03.10:163][336]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.12.06-13.03.10:166][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002569s)
+[2018.12.06-13.03.10:166][336]LogAIModule: Creating AISystem for world Map
+[2018.12.06-13.03.10:166][336]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2018.12.06-13.03.10:166][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003490s)
+[2018.12.06-13.03.10:199][336]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-13.03.10:216][336]LogInit: FAudioDevice initialized.
+[2018.12.06-13.03.10:224][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.03.10:314][336]LogLoad: Game class is 'GameModeBase'
+[2018.12.06-13.03.10:317][336]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.06-07.03.10
+[2018.12.06-13.03.10:318][336]LogWorld: Bringing up level for play took: 0.002742
+[2018.12.06-13.03.10:330][336]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.06-13.03.10:344][336]PIE: Play in editor start time for /Game/UEDPIE_0_Map 1.688
+[2018.12.06-13.03.19:546][791]LogScript: Warning: Script Msg: Divide by zero detected: 8.468010 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.19:546][791]LogScript: Warning: Script Msg: Divide by zero detected: 8.468010 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.19:566][792]LogScript: Warning: Script Msg: Divide by zero detected: 5.932738 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.19:566][792]LogScript: Warning: Script Msg: Divide by zero detected: 5.932738 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.26:124][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.03.26:163][ 36]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.06-13.03.26:200][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-13.03.26:265][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.12.06-13.03.27:837][131]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.06-13.03.27:879][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.06-13.03.27:879][131]PIE: New page: PIE session: Map (Dec 6, 2018, 1:03:27 AM)
+[2018.12.06-13.03.27:879][131]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.12.06-13.03.27:882][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003321s)
+[2018.12.06-13.03.27:883][131]LogAIModule: Creating AISystem for world Map
+[2018.12.06-13.03.27:883][131]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2018.12.06-13.03.27:884][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.004499s)
+[2018.12.06-13.03.27:917][131]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-13.03.27:935][131]LogInit: FAudioDevice initialized.
+[2018.12.06-13.03.27:944][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.03.28:124][131]LogLoad: Game class is 'GameModeBase'
+[2018.12.06-13.03.28:126][131]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.06-07.03.28
+[2018.12.06-13.03.28:127][131]LogWorld: Bringing up level for play took: 0.002574
+[2018.12.06-13.03.28:139][131]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.06-13.03.28:148][131]PIE: Play in editor start time for /Game/UEDPIE_0_Map -0.509
+[2018.12.06-13.03.39:026][665]LogScript: Warning: Script Msg: Divide by zero detected: 12.387758 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:026][665]LogScript: Warning: Script Msg: Divide by zero detected: 12.387758 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:048][666]LogScript: Warning: Script Msg: Divide by zero detected: 6.323193 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:050][666]LogScript: Warning: Script Msg: Divide by zero detected: 6.323193 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:089][667]LogScript: Warning: Script Msg: Divide by zero detected: 12.437646 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:089][667]LogScript: Warning: Script Msg: Divide by zero detected: 12.437646 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:112][668]LogScript: Warning: Script Msg: Divide by zero detected: 7.076531 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:112][668]LogScript: Warning: Script Msg: Divide by zero detected: 7.076531 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:140][669]LogScript: Warning: Script Msg: Divide by zero detected: 8.571503 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:141][669]LogScript: Warning: Script Msg: Divide by zero detected: 8.571503 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:158][670]LogScript: Warning: Script Msg: Divide by zero detected: 5.422598 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:158][670]LogScript: Warning: Script Msg: Divide by zero detected: 5.422598 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:184][671]LogScript: Warning: Script Msg: Divide by zero detected: 7.041194 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:185][671]LogScript: Warning: Script Msg: Divide by zero detected: 7.041194 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:205][672]LogScript: Warning: Script Msg: Divide by zero detected: 6.923806 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:205][672]LogScript: Warning: Script Msg: Divide by zero detected: 6.923806 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:224][673]LogScript: Warning: Script Msg: Divide by zero detected: 5.000308 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:225][673]LogScript: Warning: Script Msg: Divide by zero detected: 5.000308 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:256][674]LogScript: Warning: Script Msg: Divide by zero detected: 10.374770 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:256][674]LogScript: Warning: Script Msg: Divide by zero detected: 10.374770 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:279][675]LogScript: Warning: Script Msg: Divide by zero detected: 6.808060 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:280][675]LogScript: Warning: Script Msg: Divide by zero detected: 6.808060 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:316][676]LogScript: Warning: Script Msg: Divide by zero detected: 10.248082 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:316][676]LogScript: Warning: Script Msg: Divide by zero detected: 10.248082 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:338][677]LogScript: Warning: Script Msg: Divide by zero detected: 7.533938 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:339][677]LogScript: Warning: Script Msg: Divide by zero detected: 7.533938 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:370][678]LogScript: Warning: Script Msg: Divide by zero detected: 8.543169 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:370][678]LogScript: Warning: Script Msg: Divide by zero detected: 8.543169 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:391][679]LogScript: Warning: Script Msg: Divide by zero detected: 7.526828 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:391][679]LogScript: Warning: Script Msg: Divide by zero detected: 7.526828 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:426][680]LogScript: Warning: Script Msg: Divide by zero detected: 10.180035 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:426][680]LogScript: Warning: Script Msg: Divide by zero detected: 10.180035 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:454][681]LogScript: Warning: Script Msg: Divide by zero detected: 8.288372 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.39:454][681]LogScript: Warning: Script Msg: Divide by zero detected: 8.288372 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.45:891][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.03.45:938][937]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.06-13.03.46:015][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-13.03.46:150][938]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.12.06-13.03.47:288][  6]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.06-13.03.47:338][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.06-13.03.47:338][  6]PIE: New page: PIE session: Map (Dec 6, 2018, 1:03:47 AM)
+[2018.12.06-13.03.47:338][  6]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.12.06-13.03.47:341][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002609s)
+[2018.12.06-13.03.47:341][  6]LogAIModule: Creating AISystem for world Map
+[2018.12.06-13.03.47:341][  6]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2018.12.06-13.03.47:341][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003399s)
+[2018.12.06-13.03.47:376][  6]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-13.03.47:393][  6]LogInit: FAudioDevice initialized.
+[2018.12.06-13.03.47:403][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.03.47:517][  6]LogLoad: Game class is 'GameModeBase'
+[2018.12.06-13.03.47:520][  6]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.06-07.03.47
+[2018.12.06-13.03.47:521][  6]LogWorld: Bringing up level for play took: 0.002814
+[2018.12.06-13.03.47:533][  6]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.06-13.03.47:549][  6]PIE: Play in editor start time for /Game/UEDPIE_0_Map 0.892
+[2018.12.06-13.03.57:301][473]LogScript: Warning: Script Msg: Divide by zero detected: 12.540921 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:302][473]LogScript: Warning: Script Msg: Divide by zero detected: 12.540921 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:321][474]LogScript: Warning: Script Msg: Divide by zero detected: 6.145195 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:322][474]LogScript: Warning: Script Msg: Divide by zero detected: 6.145195 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:354][475]LogScript: Warning: Script Msg: Divide by zero detected: 9.825683 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:354][475]LogScript: Warning: Script Msg: Divide by zero detected: 9.825683 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:379][476]LogScript: Warning: Script Msg: Divide by zero detected: 6.954111 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:380][476]LogScript: Warning: Script Msg: Divide by zero detected: 6.954111 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:398][477]LogScript: Warning: Script Msg: Divide by zero detected: 5.858345 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:398][477]LogScript: Warning: Script Msg: Divide by zero detected: 5.858345 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:427][478]LogScript: Warning: Script Msg: Divide by zero detected: 8.679264 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:428][478]LogScript: Warning: Script Msg: Divide by zero detected: 8.679264 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:454][479]LogScript: Warning: Script Msg: Divide by zero detected: 8.541090 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:455][479]LogScript: Warning: Script Msg: Divide by zero detected: 8.541090 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:485][480]LogScript: Warning: Script Msg: Divide by zero detected: 9.419366 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:486][480]LogScript: Warning: Script Msg: Divide by zero detected: 9.419366 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:513][481]LogScript: Warning: Script Msg: Divide by zero detected: 6.980258 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:513][481]LogScript: Warning: Script Msg: Divide by zero detected: 6.980258 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:533][482]LogScript: Warning: Script Msg: Divide by zero detected: 7.373665 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:534][482]LogScript: Warning: Script Msg: Divide by zero detected: 7.373665 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:555][483]LogScript: Warning: Script Msg: Divide by zero detected: 6.381394 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:555][483]LogScript: Warning: Script Msg: Divide by zero detected: 6.381394 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:586][484]LogScript: Warning: Script Msg: Divide by zero detected: 9.288083 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:586][484]LogScript: Warning: Script Msg: Divide by zero detected: 9.288083 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:617][485]LogScript: Warning: Script Msg: Divide by zero detected: 8.761753 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:617][485]LogScript: Warning: Script Msg: Divide by zero detected: 8.761753 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:636][486]LogScript: Warning: Script Msg: Divide by zero detected: 6.538714 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:636][486]LogScript: Warning: Script Msg: Divide by zero detected: 6.538714 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:676][487]LogScript: Warning: Script Msg: Divide by zero detected: 10.946939 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:676][487]LogScript: Warning: Script Msg: Divide by zero detected: 10.946939 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:703][488]LogScript: Warning: Script Msg: Divide by zero detected: 8.830347 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:703][488]LogScript: Warning: Script Msg: Divide by zero detected: 8.830347 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:724][489]LogScript: Warning: Script Msg: Divide by zero detected: 6.187534 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:724][489]LogScript: Warning: Script Msg: Divide by zero detected: 6.187534 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:754][490]LogScript: Warning: Script Msg: Divide by zero detected: 8.874107 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:754][490]LogScript: Warning: Script Msg: Divide by zero detected: 8.874107 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:785][491]LogScript: Warning: Script Msg: Divide by zero detected: 9.602723 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:785][491]LogScript: Warning: Script Msg: Divide by zero detected: 9.602723 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:806][492]LogScript: Warning: Script Msg: Divide by zero detected: 6.198584 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:806][492]LogScript: Warning: Script Msg: Divide by zero detected: 6.198584 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:846][493]LogScript: Warning: Script Msg: Divide by zero detected: 11.919191 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:846][493]LogScript: Warning: Script Msg: Divide by zero detected: 11.919191 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:871][494]LogScript: Warning: Script Msg: Divide by zero detected: 7.617631 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:871][494]LogScript: Warning: Script Msg: Divide by zero detected: 7.617631 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:905][495]LogScript: Warning: Script Msg: Divide by zero detected: 10.220514 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:905][495]LogScript: Warning: Script Msg: Divide by zero detected: 10.220514 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:934][496]LogScript: Warning: Script Msg: Divide by zero detected: 8.411887 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.57:934][496]LogScript: Warning: Script Msg: Divide by zero detected: 8.411887 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.58:013][499]LogScript: Warning: Script Msg: Divide by zero detected: 5.960745 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.58:013][499]LogScript: Warning: Script Msg: Divide by zero detected: 5.960745 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.58:034][500]LogScript: Warning: Script Msg: Divide by zero detected: 8.308502 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.58:034][500]LogScript: Warning: Script Msg: Divide by zero detected: 8.308502 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.58:119][503]LogScript: Warning: Script Msg: Divide by zero detected: 8.940845 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.58:119][503]LogScript: Warning: Script Msg: Divide by zero detected: 8.940845 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.58:170][505]LogScript: Warning: Script Msg: Divide by zero detected: 9.320686 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.58:171][505]LogScript: Warning: Script Msg: Divide by zero detected: 9.320686 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.58:198][506]LogScript: Warning: Script Msg: Divide by zero detected: 8.199976 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.58:198][506]LogScript: Warning: Script Msg: Divide by zero detected: 8.199976 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.58:300][510]LogScript: Warning: Script Msg: Divide by zero detected: 7.714013 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.58:301][510]LogScript: Warning: Script Msg: Divide by zero detected: 7.714013 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.58:351][512]LogScript: Warning: Script Msg: Divide by zero detected: 8.898286 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.58:351][512]LogScript: Warning: Script Msg: Divide by zero detected: 8.898286 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.58:400][514]LogScript: Warning: Script Msg: Divide by zero detected: 9.142033 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.03.58:400][514]LogScript: Warning: Script Msg: Divide by zero detected: 9.142033 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.04.20:879][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.04.20:927][384]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.06-13.04.21:005][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-13.04.21:140][385]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.12.06-13.04.31:082][868]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.06-13.04.31:104][868]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.06-13.04.31:436][868]LogPlayLevel: [PlayLevel] Compiling Pawn_CloseCombat before play...
+[2018.12.06-13.04.32:261][868]LogPlayLevel: PlayLevel: Blueprint regeneration took 1157 ms (1 blueprints)
+[2018.12.06-13.04.32:261][868]PIE: New page: PIE session: Map (Dec 6, 2018, 1:04:32 AM)
+[2018.12.06-13.04.32:261][868]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.12.06-13.04.32:264][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003070s)
+[2018.12.06-13.04.32:264][868]LogAIModule: Creating AISystem for world Map
+[2018.12.06-13.04.32:265][868]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2018.12.06-13.04.32:265][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003887s)
+[2018.12.06-13.04.32:298][868]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-13.04.32:313][868]LogInit: FAudioDevice initialized.
+[2018.12.06-13.04.32:321][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.04.32:422][868]LogLoad: Game class is 'GameModeBase'
+[2018.12.06-13.04.32:425][868]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.06-07.04.32
+[2018.12.06-13.04.32:425][868]LogWorld: Bringing up level for play took: 0.002386
+[2018.12.06-13.04.32:437][868]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.06-13.04.32:451][868]PIE: Play in editor start time for /Game/UEDPIE_0_Map 1.794
+[2018.12.06-13.04.44:566][571]LogScript: Warning: Script Msg: Divide by zero detected: 6.667223 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.04.44:566][571]LogScript: Warning: Script Msg: Divide by zero detected: 6.667223 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.04.44:582][572]LogScript: Warning: Script Msg: Divide by zero detected: 8.439819 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.04.44:582][572]LogScript: Warning: Script Msg: Divide by zero detected: 8.439819 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.04.44:599][573]LogScript: Warning: Script Msg: Divide by zero detected: 6.666933 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.04.44:599][573]LogScript: Warning: Script Msg: Divide by zero detected: 6.666933 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.04.44:617][574]LogScript: Warning: Script Msg: Divide by zero detected: 6.666932 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.04.44:617][574]LogScript: Warning: Script Msg: Divide by zero detected: 6.666932 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.04.44:895][590]LogScript: Warning: Script Msg: Divide by zero detected: 6.682977 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.04.44:895][590]LogScript: Warning: Script Msg: Divide by zero detected: 6.682977 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.04.44:947][593]LogScript: Warning: Script Msg: Divide by zero detected: 7.035833 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.04.44:947][593]LogScript: Warning: Script Msg: Divide by zero detected: 7.035833 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.04.44:983][595]LogScript: Warning: Script Msg: Divide by zero detected: 7.778598 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.04.44:983][595]LogScript: Warning: Script Msg: Divide by zero detected: 7.778598 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.04.45:420][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.04.45:456][620]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.06-13.04.45:494][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-13.04.45:553][621]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.12.06-13.05.14:340][108]BlueprintLog: New page: Compile Pawn_CloseCombat
+[2018.12.06-13.05.17:391][179]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.06-13.05.17:433][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.06-13.05.17:434][179]PIE: New page: PIE session: Map (Dec 6, 2018, 1:05:17 AM)
+[2018.12.06-13.05.17:434][179]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.12.06-13.05.17:436][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002407s)
+[2018.12.06-13.05.17:437][179]LogAIModule: Creating AISystem for world Map
+[2018.12.06-13.05.17:437][179]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2018.12.06-13.05.17:437][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003345s)
+[2018.12.06-13.05.17:478][179]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-13.05.17:492][179]LogInit: FAudioDevice initialized.
+[2018.12.06-13.05.17:500][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.05.17:787][179]LogLoad: Game class is 'GameModeBase'
+[2018.12.06-13.05.17:791][179]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.06-07.05.17
+[2018.12.06-13.05.17:792][179]LogWorld: Bringing up level for play took: 0.003565
+[2018.12.06-13.05.17:804][179]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.06-13.05.17:817][179]PIE: Play in editor start time for /Game/UEDPIE_0_Map 1.16
+[2018.12.06-13.05.28:457][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.05.28:550][694]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.06-13.05.28:608][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-13.05.28:744][695]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.06-13.05.37:389][200]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.06-13.05.37:414][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.06-13.05.37:414][200]PIE: New page: PIE session: Map (Dec 6, 2018, 1:05:37 AM)
+[2018.12.06-13.05.37:415][200]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2018.12.06-13.05.37:418][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003087s)
+[2018.12.06-13.05.37:418][200]LogAIModule: Creating AISystem for world Map
+[2018.12.06-13.05.37:419][200]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2018.12.06-13.05.37:419][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.004046s)
+[2018.12.06-13.05.37:453][200]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.06-13.05.37:466][200]LogInit: FAudioDevice initialized.
+[2018.12.06-13.05.37:474][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.05.37:731][200]LogLoad: Game class is 'GameModeBase'
+[2018.12.06-13.05.37:734][200]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.06-07.05.37
+[2018.12.06-13.05.37:735][200]LogWorld: Bringing up level for play took: 0.002197
+[2018.12.06-13.05.37:747][200]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.06-13.05.37:763][200]PIE: Play in editor start time for /Game/UEDPIE_0_Map 1.106
+[2018.12.06-13.05.50:534][867]LogScript: Warning: Script Msg: Divide by zero detected: 9.848658 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.05.50:534][867]LogScript: Warning: Script Msg: Divide by zero detected: 9.848658 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.05.50:568][868]LogScript: Warning: Script Msg: Divide by zero detected: 10.206838 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.05.50:568][868]LogScript: Warning: Script Msg: Divide by zero detected: 10.206838 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.05.50:600][869]LogScript: Warning: Script Msg: Divide by zero detected: 9.663221 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.05.50:601][869]LogScript: Warning: Script Msg: Divide by zero detected: 9.663221 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.05.50:667][871]LogScript: Warning: Script Msg: Divide by zero detected: 10.700568 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.05.50:668][871]LogScript: Warning: Script Msg: Divide by zero detected: 10.700568 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.06.03:094][379]LogScript: Warning: Script Msg: Divide by zero detected: 12.420872 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.06.03:094][379]LogScript: Warning: Script Msg: Divide by zero detected: 12.420872 / 0
+Script call stack:
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90
+	Function /Game/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.Pawn_CloseCombat_C:ExecuteUbergraph_Pawn_CloseCombat
+
+[2018.12.06-13.06.11:720][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.06-13.06.11:773][725]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.06-13.06.11:845][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.06-13.06.12:002][726]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.06-13.06.17:145][944]LogSlate: Window 'Save Content' being destroyed
+[2018.12.06-13.06.17:887][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../../Users/mlgmi/Documents/Unreal Projects/MyProject/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.06-13.06.19:379][944]LogSavePackage: Moving '../../../../../../Users/mlgmi/Documents/Unreal Projects/MyProject/Saved/MapD58C1EF142B584FFC024A7A483F3DD10.tmp' to '../../../../../../Users/mlgmi/Documents/Unreal Projects/MyProject/Content/Map.umap'
+[2018.12.06-13.06.19:490][944]LogFileHelpers: Saving map 'Map' took 2.291
+[2018.12.06-13.06.20:983][944]LogSavePackage: Moving '../../../../../../Users/mlgmi/Documents/Unreal Projects/MyProject/Saved/Pawn_CloseCombat3AECD24546CB5D29C5554A9E973DC549.tmp' to '../../../../../../Users/mlgmi/Documents/Unreal Projects/MyProject/Content/Programming/CloseCombat/Blueprints/Player/Pawn_CloseCombat.uasset'
+[2018.12.06-13.06.21:249][944]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2018.12.06-13.06.21:250][944]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.06-13.06.21:736][945]Cmd: QUIT_EDITOR
+[2018.12.06-13.06.22:907][945]LogExit: Preparing to exit.
+[2018.12.06-13.06.24:268][945]LogExit: Editor shut down
+[2018.12.06-13.06.24:268][945]LogExit: Transaction tracking system shut down
+[2018.12.06-13.06.27:797][945]LogExit: Object subsystem successfully closed.
+[2018.12.06-13.06.28:115][945]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.06-13.06.28:143][945]LogD3D11RHI: Shutdown
+[2018.12.06-13.06.28:143][945]LogD3D11RHI: CleanupD3DDevice
+[2018.12.06-13.06.28:143][945]LogNiagara: FNiagaraGlobalReadBuffer::ReleaseRHI
+[2018.12.06-13.06.28:143][945]LogNiagara: FNiagaraGlobalReadBuffer::Cleanup()
+[2018.12.06-13.06.28:298][945]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.06-13.06.29:942][945]LogModuleManager: Shutting down and abandoning module BlueprintGraph (628)
+[2018.12.06-13.06.29:942][945]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2018.12.06-13.06.29:942][945]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2018.12.06-13.06.29:954][945]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2018.12.06-13.06.29:954][945]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2018.12.06-13.06.29:954][945]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2018.12.06-13.06.29:969][945]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2018.12.06-13.06.29:969][945]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2018.12.06-13.06.29:969][945]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2018.12.06-13.06.29:979][945]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2018.12.06-13.06.29:988][945]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2018.12.06-13.06.29:999][945]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2018.12.06-13.06.30:065][945]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2018.12.06-13.06.30:081][945]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2018.12.06-13.06.30:081][945]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2018.12.06-13.06.30:081][945]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2018.12.06-13.06.30:081][945]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2018.12.06-13.06.30:081][945]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2018.12.06-13.06.30:081][945]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2018.12.06-13.06.30:111][945]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2018.12.06-13.06.30:124][945]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2018.12.06-13.06.30:156][945]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2018.12.06-13.06.30:157][945]LogModuleManager: Shutting down and abandoning module SequenceRecorder (585)
+[2018.12.06-13.06.30:178][945]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (582)
+[2018.12.06-13.06.30:193][945]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (580)
+[2018.12.06-13.06.30:253][945]LogModuleManager: Shutting down and abandoning module PlacementMode (579)
+[2018.12.06-13.06.30:253][945]LogModuleManager: Shutting down and abandoning module MaterialEditor (578)
+[2018.12.06-13.06.30:284][945]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (574)
+[2018.12.06-13.06.30:284][945]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (572)
+[2018.12.06-13.06.30:284][945]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (570)
+[2018.12.06-13.06.30:340][945]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (568)
+[2018.12.06-13.06.30:340][945]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (566)
+[2018.12.06-13.06.30:340][945]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (564)
+[2018.12.06-13.06.30:340][945]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (562)
+[2018.12.06-13.06.30:340][945]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (560)
+[2018.12.06-13.06.30:340][945]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (558)
+[2018.12.06-13.06.30:340][945]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (556)
+[2018.12.06-13.06.30:340][945]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (554)
+[2018.12.06-13.06.30:340][945]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (552)
+[2018.12.06-13.06.30:340][945]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (550)
+[2018.12.06-13.06.30:340][945]LogModuleManager: Shutting down and abandoning module CharacterAI (548)
+[2018.12.06-13.06.30:340][945]LogModuleManager: Shutting down and abandoning module SmartSnapping (546)
+[2018.12.06-13.06.30:340][945]LogModuleManager: Shutting down and abandoning module SessionServices (544)
+[2018.12.06-13.06.30:340][945]LogModuleManager: Shutting down and abandoning module ViewportSnapping (542)
+[2018.12.06-13.06.30:340][945]LogModuleManager: Shutting down and abandoning module ViewportInteraction (540)
+[2018.12.06-13.06.30:340][945]LogModuleManager: Shutting down and abandoning module ClothPainter (538)
+[2018.12.06-13.06.30:361][945]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (537)
+[2018.12.06-13.06.30:384][945]LogModuleManager: Shutting down and abandoning module LogVisualizer (534)
+[2018.12.06-13.06.30:401][945]LogModuleManager: Shutting down and abandoning module IntroTutorials (532)
+[2018.12.06-13.06.30:430][945]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (531)
+[2018.12.06-13.06.30:466][945]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (528)
+[2018.12.06-13.06.30:466][945]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (526)
+[2018.12.06-13.06.30:477][945]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (524)
+[2018.12.06-13.06.30:477][945]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (522)
+[2018.12.06-13.06.30:477][945]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (521)
+[2018.12.06-13.06.30:612][945]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (518)
+[2018.12.06-13.06.30:612][945]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (516)
+[2018.12.06-13.06.30:612][945]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (514)
+[2018.12.06-13.06.30:612][945]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (512)
+[2018.12.06-13.06.30:612][945]LogModuleManager: Shutting down and abandoning module InputBindingEditor (510)
+[2018.12.06-13.06.30:629][945]LogModuleManager: Shutting down and abandoning module MergeActors (508)
+[2018.12.06-13.06.30:644][945]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (506)
+[2018.12.06-13.06.30:666][945]LogModuleManager: Shutting down and abandoning module LocalizationService (505)
+[2018.12.06-13.06.30:671][945]LogModuleManager: Shutting down and abandoning module HardwareTargeting (502)
+[2018.12.06-13.06.30:671][945]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (500)
+[2018.12.06-13.06.30:671][945]LogModuleManager: Shutting down and abandoning module UndoHistory (498)
+[2018.12.06-13.06.30:684][945]LogModuleManager: Shutting down and abandoning module XmlParser (496)
+[2018.12.06-13.06.30:684][945]LogModuleManager: Shutting down and abandoning module Blutility (494)
+[2018.12.06-13.06.30:709][945]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (492)
+[2018.12.06-13.06.30:709][945]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (491)
+[2018.12.06-13.06.30:710][945]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (488)
+[2018.12.06-13.06.30:710][945]LogModuleManager: Shutting down and abandoning module SettingsEditor (486)
+[2018.12.06-13.06.30:739][945]LogModuleManager: Shutting down and abandoning module ProjectLauncher (484)
+[2018.12.06-13.06.30:758][945]LogModuleManager: Shutting down and abandoning module SessionFrontend (482)
+[2018.12.06-13.06.30:795][945]LogModuleManager: Shutting down and abandoning module ProfilerClient (480)
+[2018.12.06-13.06.30:801][945]LogModuleManager: Shutting down and abandoning module DeviceManager (478)
+[2018.12.06-13.06.30:810][945]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (477)
+[2018.12.06-13.06.30:875][945]LogModuleManager: Shutting down and abandoning module AutomationController (474)
+[2018.12.06-13.06.30:889][945]LogModuleManager: Shutting down and abandoning module AutomationWindow (472)
+[2018.12.06-13.06.30:904][945]LogModuleManager: Shutting down and abandoning module Layers (470)
+[2018.12.06-13.06.30:920][945]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (468)
+[2018.12.06-13.06.30:920][945]LogModuleManager: Shutting down and abandoning module DetailCustomizations (466)
+[2018.12.06-13.06.30:973][945]LogModuleManager: Shutting down and abandoning module PackagesDialog (464)
+[2018.12.06-13.06.30:973][945]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2018.12.06-13.06.31:028][945]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2018.12.06-13.06.31:028][945]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2018.12.06-13.06.31:028][945]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2018.12.06-13.06.31:036][945]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2018.12.06-13.06.31:036][945]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2018.12.06-13.06.31:036][945]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2018.12.06-13.06.31:036][945]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2018.12.06-13.06.31:064][945]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2018.12.06-13.06.31:084][945]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2018.12.06-13.06.31:084][945]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2018.12.06-13.06.31:095][945]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2018.12.06-13.06.31:095][945]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (438)
+[2018.12.06-13.06.31:095][945]LogModuleManager: Shutting down and abandoning module MovieScene (436)
+[2018.12.06-13.06.31:105][945]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (434)
+[2018.12.06-13.06.31:130][945]LogModuleManager: Shutting down and abandoning module LauncherPlatform (432)
+[2018.12.06-13.06.31:130][945]LogModuleManager: Shutting down and abandoning module AnalyticsET (430)
+[2018.12.06-13.06.31:130][945]LogModuleManager: Shutting down and abandoning module PortalServices (428)
+[2018.12.06-13.06.31:130][945]LogModuleManager: Shutting down and abandoning module PortalRpc (426)
+[2018.12.06-13.06.31:130][945]LogModuleManager: Shutting down and abandoning module MessagingRpc (424)
+[2018.12.06-13.06.31:130][945]LogModuleManager: Shutting down and abandoning module AIModule (422)
+[2018.12.06-13.06.31:135][945]LogModuleManager: Shutting down and abandoning module GameplayDebugger (421)
+[2018.12.06-13.06.31:147][945]LogModuleManager: Shutting down and abandoning module AITestSuite (419)
+[2018.12.06-13.06.31:151][945]LogModuleManager: Shutting down and abandoning module NavigationSystem (417)
+[2018.12.06-13.06.31:151][945]LogModuleManager: Shutting down and abandoning module DesktopPlatform (414)
+[2018.12.06-13.06.31:152][945]LogModuleManager: Shutting down and abandoning module ProfilerService (412)
+[2018.12.06-13.06.31:366][945]LogModuleManager: Shutting down and abandoning module TaskGraph (410)
+[2018.12.06-13.06.31:458][945]LogModuleManager: Shutting down and abandoning module SteamVRController (408)
+[2018.12.06-13.06.31:458][945]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (406)
+[2018.12.06-13.06.31:458][945]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (404)
+[2018.12.06-13.06.31:467][945]LogModuleManager: Shutting down and abandoning module OculusInput (402)
+[2018.12.06-13.06.31:467][945]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (400)
+[2018.12.06-13.06.31:467][945]LogModuleManager: Shutting down and abandoning module EditableMesh (398)
+[2018.12.06-13.06.31:495][945]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (396)
+[2018.12.06-13.06.31:495][945]LogModuleManager: Shutting down and abandoning module CableComponent (394)
+[2018.12.06-13.06.31:495][945]LogModuleManager: Shutting down and abandoning module AudioCapture (392)
+[2018.12.06-13.06.31:495][945]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (390)
+[2018.12.06-13.06.31:495][945]LogModuleManager: Shutting down and abandoning module AndroidPermission (388)
+[2018.12.06-13.06.31:495][945]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (386)
+[2018.12.06-13.06.31:495][945]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (384)
+[2018.12.06-13.06.31:612][945]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (382)
+[2018.12.06-13.06.31:612][945]LogModuleManager: Shutting down and abandoning module MediaCompositing (380)
+[2018.12.06-13.06.31:612][945]LogModuleManager: Shutting down and abandoning module LinearTimecode (378)
+[2018.12.06-13.06.31:612][945]LogModuleManager: Shutting down and abandoning module ImgMedia (376)
+[2018.12.06-13.06.31:676][945]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (374)
+[2018.12.06-13.06.31:969][945]LogModuleManager: Shutting down and abandoning module HTML5Networking (372)
+[2018.12.06-13.06.31:969][945]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (370)
+[2018.12.06-13.06.31:969][945]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (368)
+[2018.12.06-13.06.31:969][945]LogModuleManager: Shutting down and abandoning module BackChannel (366)
+[2018.12.06-13.06.32:019][945]LogModuleManager: Shutting down and abandoning module AppleVision (364)
+[2018.12.06-13.06.32:019][945]LogModuleManager: Shutting down and abandoning module AppleImageUtils (362)
+[2018.12.06-13.06.32:019][945]LogModuleManager: Shutting down and abandoning module AlembicImporter (360)
+[2018.12.06-13.06.32:019][945]LogModuleManager: Shutting down and abandoning module AlembicLibrary (359)
+[2018.12.06-13.06.32:019][945]LogModuleManager: Shutting down and abandoning module GeometryCache (358)
+[2018.12.06-13.06.32:019][945]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (357)
+[2018.12.06-13.06.32:019][945]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (352)
+[2018.12.06-13.06.32:038][945]LogModuleManager: Shutting down and abandoning module DatasmithContent (350)
+[2018.12.06-13.06.32:038][945]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (348)
+[2018.12.06-13.06.32:038][945]LogModuleManager: Shutting down and abandoning module PluginBrowser (346)
+[2018.12.06-13.06.32:220][945]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (344)
+[2018.12.06-13.06.32:274][945]LogModuleManager: Shutting down and abandoning module PolygonModeling (342)
+[2018.12.06-13.06.32:274][945]LogModuleManager: Shutting down and abandoning module MeshEditor (340)
+[2018.12.06-13.06.32:341][945]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (338)
+[2018.12.06-13.06.32:359][945]LogModuleManager: Shutting down and abandoning module CryptoKeys (336)
+[2018.12.06-13.06.32:359][945]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (334)
+[2018.12.06-13.06.32:375][945]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (332)
+[2018.12.06-13.06.32:375][945]LogModuleManager: Shutting down and abandoning module UObjectPlugin (330)
+[2018.12.06-13.06.32:375][945]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (328)
+[2018.12.06-13.06.32:409][945]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (326)
+[2018.12.06-13.06.32:480][945]LogModuleManager: Shutting down and abandoning module GitSourceControl (324)
+[2018.12.06-13.06.32:510][945]LogModuleManager: Shutting down and abandoning module SourceControl (323)
+[2018.12.06-13.06.32:521][945]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (320)
+[2018.12.06-13.06.32:521][945]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (318)
+[2018.12.06-13.06.32:521][945]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (316)
+[2018.12.06-13.06.32:521][945]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (314)
+[2018.12.06-13.06.32:521][945]LogModuleManager: Shutting down and abandoning module Paper2DEditor (312)
+[2018.12.06-13.06.32:558][945]LogModuleManager: Shutting down and abandoning module MeshPaint (311)
+[2018.12.06-13.06.32:652][945]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (308)
+[2018.12.06-13.06.32:652][945]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (306)
+[2018.12.06-13.06.32:652][945]LogModuleManager: Shutting down and abandoning module PhysXVehicles (304)
+[2018.12.06-13.06.32:652][945]LogModuleManager: Shutting down and abandoning module OculusEditor (302)
+[2018.12.06-13.06.32:709][945]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2018.12.06-13.06.32:710][945]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (298)
+[2018.12.06-13.06.32:710][945]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (296)
+[2018.12.06-13.06.32:737][945]LogModuleManager: Shutting down and abandoning module ActorSequence (294)
+[2018.12.06-13.06.32:737][945]LogModuleManager: Shutting down and abandoning module UdpMessaging (292)
+[2018.12.06-13.06.32:839][945]LogModuleManager: Shutting down and abandoning module TcpMessaging (290)
+[2018.12.06-13.06.32:986][945]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (288)
+[2018.12.06-13.06.32:986][945]LogModuleManager: Shutting down and abandoning module Niagara (286)
+[2018.12.06-13.06.32:996][945]LogModuleManager: Shutting down and abandoning module NiagaraEditor (285)
+[2018.12.06-13.06.33:083][945]LogModuleManager: Shutting down and abandoning module NiagaraCore (282)
+[2018.12.06-13.06.33:083][945]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (280)
+[2018.12.06-13.06.33:175][945]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (278)
+[2018.12.06-13.06.33:175][945]LogModuleManager: Shutting down and abandoning module FacialAnimation (276)
+[2018.12.06-13.06.33:175][945]LogModuleManager: Shutting down and abandoning module DataValidation (274)
+[2018.12.06-13.06.33:209][945]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (272)
+[2018.12.06-13.06.33:253][945]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2018.12.06-13.06.33:403][945]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2018.12.06-13.06.33:418][945]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (268)
+[2018.12.06-13.06.33:419][945]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.12.06-13.06.33:422][945]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.12.06-13.06.33:523][945]LogModuleManager: Shutting down and abandoning module ContentBrowser (261)
+[2018.12.06-13.06.33:524][945]LogModuleManager: Shutting down and abandoning module TreeMap (259)
+[2018.12.06-13.06.33:544][945]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (256)
+[2018.12.06-13.06.33:544][945]LogModuleManager: Shutting down and abandoning module AISupportModule (254)
+[2018.12.06-13.06.33:544][945]LogModuleManager: Shutting down and abandoning module Paper2D (252)
+[2018.12.06-13.06.33:561][945]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (250)
+[2018.12.06-13.06.33:584][945]LogModuleManager: Shutting down and abandoning module WmfMedia (248)
+[2018.12.06-13.06.33:609][945]LogModuleManager: Shutting down and abandoning module Media (247)
+[2018.12.06-13.06.33:616][945]LogModuleManager: Shutting down and abandoning module PacketHandler (244)
+[2018.12.06-13.06.33:616][945]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (242)
+[2018.12.06-13.06.33:616][945]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (240)
+[2018.12.06-13.06.33:625][945]LogModuleManager: Shutting down and abandoning module MediaAssets (238)
+[2018.12.06-13.06.33:625][945]LogModuleManager: Shutting down and abandoning module Overlay (236)
+[2018.12.06-13.06.33:625][945]LogModuleManager: Shutting down and abandoning module OverlayEditor (235)
+[2018.12.06-13.06.33:625][945]LogModuleManager: Shutting down and abandoning module VREditor (232)
+[2018.12.06-13.06.33:633][945]LogModuleManager: Shutting down and abandoning module StringTableEditor (230)
+[2018.12.06-13.06.33:657][945]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (228)
+[2018.12.06-13.06.33:657][945]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (226)
+[2018.12.06-13.06.33:733][945]LogModuleManager: Shutting down and abandoning module FunctionalTesting (224)
+[2018.12.06-13.06.33:760][945]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (222)
+[2018.12.06-13.06.33:775][945]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (221)
+[2018.12.06-13.06.33:776][945]LogModuleManager: Shutting down and abandoning module UMG (218)
+[2018.12.06-13.06.33:776][945]LogModuleManager: Shutting down and abandoning module UMGEditor (217)
+[2018.12.06-13.06.33:830][945]LogModuleManager: Shutting down and abandoning module Sequencer (216)
+[2018.12.06-13.06.33:892][945]LogModuleManager: Shutting down and abandoning module MessageLog (213)
+[2018.12.06-13.06.33:892][945]LogModuleManager: Shutting down and abandoning module SlateReflector (208)
+[2018.12.06-13.06.33:935][945]LogModuleManager: Shutting down and abandoning module Slate (206)
+[2018.12.06-13.06.33:945][945]LogModuleManager: Shutting down and abandoning module EditorStyle (204)
+[2018.12.06-13.06.33:960][945]LogModuleManager: Shutting down and abandoning module MRMesh (202)
+[2018.12.06-13.06.33:970][945]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (200)
+[2018.12.06-13.06.33:970][945]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (198)
+[2018.12.06-13.06.33:970][945]LogModuleManager: Shutting down and abandoning module XAudio2 (196)
+[2018.12.06-13.06.33:970][945]LogModuleManager: Shutting down and abandoning module Networking (194)
+[2018.12.06-13.06.33:970][945]LogModuleManager: Shutting down and abandoning module Core (192)
+[2018.12.06-13.06.33:970][945]LogModuleManager: Shutting down and abandoning module LevelSequence (190)
+[2018.12.06-13.06.33:970][945]LogModuleManager: Shutting down and abandoning module KismetCompiler (188)
+[2018.12.06-13.06.33:970][945]LogModuleManager: Shutting down and abandoning module MeshUtilities (186)
+[2018.12.06-13.06.33:979][945]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (185)
+[2018.12.06-13.06.34:027][945]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (184)
+[2018.12.06-13.06.34:027][945]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (183)
+[2018.12.06-13.06.34:048][945]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (181)
+[2018.12.06-13.06.34:190][945]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (179)
+[2018.12.06-13.06.34:190][945]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (177)
+[2018.12.06-13.06.34:219][945]LogModuleManager: Shutting down and abandoning module MaterialBaking (173)
+[2018.12.06-13.06.34:247][945]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (169)
+[2018.12.06-13.06.34:247][945]LogModuleManager: Shutting down and abandoning module DerivedDataCache (166)
+[2018.12.06-13.06.34:301][945]LogDerivedDataCache: Shutdown
+[2018.12.06-13.06.34:301][945]LogModuleManager: Shutting down and abandoning module XGEController (164)
+[2018.12.06-13.06.34:309][945]LogModuleManager: Shutting down and abandoning module TargetPlatform (162)
+[2018.12.06-13.06.34:309][945]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (161)
+[2018.12.06-13.06.34:349][945]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (159)
+[2018.12.06-13.06.34:383][945]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (157)
+[2018.12.06-13.06.34:396][945]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (155)
+[2018.12.06-13.06.34:396][945]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (153)
+[2018.12.06-13.06.34:414][945]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (151)
+[2018.12.06-13.06.34:414][945]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (149)
+[2018.12.06-13.06.34:414][945]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (147)
+[2018.12.06-13.06.34:427][945]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (145)
+[2018.12.06-13.06.34:431][945]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (143)
+[2018.12.06-13.06.34:431][945]LogModuleManager: Shutting down and abandoning module ImageWrapper (142)
+[2018.12.06-13.06.34:431][945]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (139)
+[2018.12.06-13.06.34:431][945]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (137)
+[2018.12.06-13.06.34:431][945]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (135)
+[2018.12.06-13.06.34:431][945]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (133)
+[2018.12.06-13.06.34:431][945]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (131)
+[2018.12.06-13.06.34:431][945]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (129)
+[2018.12.06-13.06.34:431][945]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (127)
+[2018.12.06-13.06.34:442][945]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2018.12.06-13.06.34:461][945]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (123)
+[2018.12.06-13.06.34:470][945]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (121)
+[2018.12.06-13.06.34:471][945]LogModuleManager: Shutting down and abandoning module Messaging (119)
+[2018.12.06-13.06.34:471][945]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (117)
+[2018.12.06-13.06.34:471][945]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (115)
+[2018.12.06-13.06.34:471][945]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (113)
+[2018.12.06-13.06.34:483][945]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (111)
+[2018.12.06-13.06.34:483][945]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (109)
+[2018.12.06-13.06.34:483][945]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (107)
+[2018.12.06-13.06.34:483][945]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (105)
+[2018.12.06-13.06.34:483][945]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (103)
+[2018.12.06-13.06.34:483][945]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (101)
+[2018.12.06-13.06.34:483][945]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (99)
+[2018.12.06-13.06.34:483][945]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (97)
+[2018.12.06-13.06.34:484][945]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (95)
+[2018.12.06-13.06.34:484][945]LogModuleManager: Shutting down and abandoning module InputCore (92)
+[2018.12.06-13.06.34:484][945]LogModuleManager: Shutting down and abandoning module Settings (90)
+[2018.12.06-13.06.34:484][945]LogModuleManager: Shutting down and abandoning module PhysXCooking (88)
+[2018.12.06-13.06.34:484][945]LogModuleManager: Shutting down and abandoning module SteamVR (86)
+[2018.12.06-13.06.34:484][945]LogModuleManager: Shutting down and abandoning module OculusHMD (84)
+[2018.12.06-13.06.34:491][945]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (82)
+[2018.12.06-13.06.34:491][945]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (80)
+[2018.12.06-13.06.34:491][945]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (78)
+[2018.12.06-13.06.34:491][945]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (74)
+[2018.12.06-13.06.34:519][945]LogModuleManager: Shutting down and abandoning module XMPP (69)
+[2018.12.06-13.06.34:540][945]LogModuleManager: Shutting down and abandoning module WebSockets (68)
+[2018.12.06-13.06.34:715][945]LogModuleManager: Shutting down and abandoning module HTTP (65)
+[2018.12.06-13.06.34:745][945]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.06-13.06.34:746][945]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B18D65F6B-455D-105A-DA1B-549B8E7C0BA6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=d2bf9f0d45c2cdc3162870a5ea0e604d%7Cdad6a3be8bd643308ff6014b660c9f55%7Ceab2fff6-2eca-47de-8aa2-5b7b56d008d4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.06-13.06.34:752][945]LogModuleManager: Shutting down and abandoning module SSL (64)
+[2018.12.06-13.06.34:819][945]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (60)
+[2018.12.06-13.06.34:819][945]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (58)
+[2018.12.06-13.06.34:819][945]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (56)
+[2018.12.06-13.06.34:819][945]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (54)
+[2018.12.06-13.06.34:819][945]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (52)
+[2018.12.06-13.06.34:819][945]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (50)
+[2018.12.06-13.06.34:819][945]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (48)
+[2018.12.06-13.06.34:819][945]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (46)
+[2018.12.06-13.06.34:819][945]LogModuleManager: Shutting down and abandoning module MagicLeapController (44)
+[2018.12.06-13.06.34:839][945]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.06-13.06.34:839][945]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2018.12.06-13.06.34:839][945]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (40)
+[2018.12.06-13.06.34:839][945]LogModuleManager: Shutting down and abandoning module NiagaraShader (38)
+[2018.12.06-13.06.34:839][945]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.06-13.06.34:969][945]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.06-13.06.34:981][945]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.06-13.06.35:009][945]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.06-13.06.35:014][945]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.06-13.06.35:014][945]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.06-13.06.35:014][945]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.06-13.06.35:026][945]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.06-13.06.35:053][945]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.06-13.06.35:053][945]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.06-13.06.35:053][945]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.06-13.06.35:053][945]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.06-13.06.35:053][945]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.06-13.06.35:053][945]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.06-13.06.35:059][945]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.06-13.06.35:059][945]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.06-13.06.35:094][945]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.06-13.06.35:094][945]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.06-13.06.35:331][945]LogExit: Exiting.
+[2018.12.06-13.06.35:334][945]Log file closed, 12/06/18 07:06:35
